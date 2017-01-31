@@ -1,13 +1,15 @@
 # GenericCountries
-Corrected world countries polygons in GeoJson format updated on 30/01/2017.
+Corrected world countries polygons in GeoJson format updated on 31/01/2017.
 
 
 About this dataset:
 
+- Sudan & South Sudan
 - Greenland C Denmark
 - Taiwan C China
 - Alaska C USA
 - Puerto Rico C USA
 - Gibraltar C UK
-- Sudan & South Sudan
 - Kosovo C Serbia
+- Svalbard C Norway
+- Palestine is an observer state (Not even Google Maps knows what to do with Palestine)
