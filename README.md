@@ -12,4 +12,5 @@ About this dataset:
 - Gibraltar C UK
 - Kosovo C Serbia
 - Svalbard C Norway
-- Palestine is an observer state (Not even Google Maps knows what to do with Palestine)
+- Palestine as an observer state (Not even Google Maps knows what to do with Palestine)
+- Antarctica as a country (simplification of claimed territories)
